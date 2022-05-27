@@ -1,0 +1,5 @@
+venv
+.idea
+html
+scss/boostrap.scss
+scss/boostrap.min.css
